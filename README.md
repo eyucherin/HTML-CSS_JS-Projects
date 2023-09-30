@@ -1,5 +1,5 @@
 # HTML, CSS, & Javascript code-challenge :
- - ### Day 1 : To Do App
+ - ### Day 1: To Do App 
    - Creating a simple to do list.
    - What I learned:
      - Basic DOM manipulation
