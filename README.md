@@ -1,6 +1,6 @@
 # HTML, CSS, & Javascript code-challenge :
  - ### Day 1: To Do App
- - <details>
+<details>
   <summary>What I learned</summary>
   <div>Basic DOM manipulation</div>
   <ul>
