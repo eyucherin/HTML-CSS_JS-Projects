@@ -1,6 +1,6 @@
 # HTML, CSS, & Javascript code-challenge :
- - ### Day 1: To Do App 
-   - What I learned:
+ - ### Day 1: To Do App
+ - <summary>What I learned</summary>
      - Basic DOM manipulation
        - createElement
        - removeChild
