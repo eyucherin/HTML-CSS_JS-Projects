@@ -1,9 +1,11 @@
 # HTML, CSS, & Javascript code-challenge :
  - ### Day 1: To Do App
- - <summary>What I learned</summary>
+ <details>
+  - <summary>What I learned</summary>
      - Basic DOM manipulation
        - createElement
        - removeChild
        - appendChild
      - using Forms
        - when form is submitted, page will re-render. To stop this from happening, call `event.preventDefault()` in event handler.
+ </details>
