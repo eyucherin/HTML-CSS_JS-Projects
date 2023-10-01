@@ -1,0 +1,20 @@
+.flex{
+    display:flex;
+    justify-content: center;
+}
+
+.button-end{
+    display:flex;
+    justify-content: flex-start;
+}
+
+.newItem{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 5px;
+}
+
+#weather_info{
+    margin-top: 20px;
+}
