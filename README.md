@@ -15,7 +15,7 @@
 </details>
 
 
-### Day 1: To Do App
+### Day 2: Weather App Using Open Weather API
 
 <details>
   <summary><b>What I learned</b></summary>
