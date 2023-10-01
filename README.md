@@ -25,5 +25,7 @@
         let lon = position.coords.longitude;
         })
         ```
+  - **Basic DOM manipulation**
+    - firstChild   
   
 </details>
