@@ -21,7 +21,7 @@
   <summary><b>What I learned</b></summary>
   
   - **fetching Open Weather API**
-    - [APIDOC]("https://openweathermap.org/current")
+    - [API DOC](https://openweathermap.org/current)
   - **Geolocation API**
     -   ```
         navigator.geolocation.getCurrentPosition((position) => {
