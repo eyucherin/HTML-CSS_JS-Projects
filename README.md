@@ -1,9 +1,7 @@
-# HTML, CSS, & Javascript code-challenge :
 
-### Day 1: To Do App
 
 <details>
-  <summary><b>What I learned</b></summary>
+  <summary><b>Day1:To Do List</b></summary>
   
   - **Basic DOM manipulation**
     - createElement
@@ -15,10 +13,8 @@
 </details>
 
 
-### Day 2: Weather App Using Open Weather API
-
 <details>
-  <summary><b>What I learned</b></summary>
+  <summary><b>Day2:Weather App</b></summary>
   
   - **fetching Open Weather API**
     - [API DOC](https://openweathermap.org/current)
