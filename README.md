@@ -1,7 +1,8 @@
 
 
 <details>
- <summary><a href="https://codepen.io/eyucherin/pen/GRPBPbL">Day1:To Do List</a></summary>
+ <summary><b>Day1:To Do List</b></summary>
+ 
   - **Basic DOM manipulation**
     - createElement
     - removeChild
