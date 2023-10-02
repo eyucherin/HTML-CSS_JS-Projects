@@ -36,7 +36,7 @@
   - **Basic DOM manipulation**
     - querySelectorAll
   - **this keyword in HTML**
-    - this in html will pass the element itself as an argument to the function.
+    - `this` in html will pass the element itself as an argument to the function.
   - **CSS keframes**
     - animating your css.
     - call this in css class.
