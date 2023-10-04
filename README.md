@@ -41,3 +41,14 @@
     - animating your css.
     - call this in css class.
 </details>
+
+
+<details>
+  <summary><b>Day4:Typing Game</b></summary>
+
+  - **event Handler**
+    - use onkey up to see the whole change, on key down will print previous change.
+  - **Built in Javascript async Function**
+    - setInterval
+    - setTimeout
+</details>
