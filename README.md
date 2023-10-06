@@ -61,3 +61,21 @@
      - adding this to style that deals with color.
 </details>
 
+
+<details>
+  <summary><b>Day6:hideUser</b></summary>
+    
+   - **CSS keyframes**
+     - using keyframes to animate the the profile card.
+  - **event Handler**
+    - ```btn.addEventListener("click")```
+    - yet another way to add event listener. 
+    - this is different than passing the function straight to the element. 
+  - **adding css straight from javascript**
+    - ```profileCard.style.animation = ""```
+  - **using font awesome**
+    - official font-awesome [Docs]("https://fontawesome.com/")
+
+    
+</details>
+
