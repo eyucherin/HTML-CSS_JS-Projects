@@ -63,7 +63,7 @@
 
 
 <details>
-  <summary><b>Day6:hideUser</b></summary>
+  <summary><b>Day6:Hiding User</b></summary>
     
    - **CSS keyframes**
      - using keyframes to animate the the profile card.
