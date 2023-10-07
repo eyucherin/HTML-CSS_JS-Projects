@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.grid-container {
+  display: inline-grid;
+  grid-template-columns: 100px 200px 200px;
+  align-content: center;
+}
+
+.grid-item{
+    border: 1px solid black;
+}
+
+.grid-item:hover{
+    background-color: #f1c40f;
+    cursor: pointer;
+}
+
+.item1 {
+    grid-column: 1 / 3;
+}
