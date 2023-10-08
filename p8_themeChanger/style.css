@@ -1,0 +1,23 @@
+
+button{
+    border-radius: 100%;
+    width:100px;
+    height:100px;
+    cursor: pointer;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.darkTheme{
+    background-color: black;
+}
+
+.lightTheme{
+    background-color: #fff;
+}
