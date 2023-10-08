@@ -83,3 +83,10 @@
   - `document.addEventListener("mousemove"`
 
 </details>
+
+<details>
+  <summary><b>Day8:Theme Changer</b></summary>
+  
+ - **Nothing new but interesting project**
+
+</details>
